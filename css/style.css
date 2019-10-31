@@ -1,0 +1,415 @@
+*{
+	margin: 0px;
+	padding:0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+		    width: 1140px;
+		    margin: 0 auto;
+		    height: 275px;
+}
+
+header {
+		    background-color: #87509c;
+		    padding: 25px 0px;
+		    background-size: cover;
+}
+ .logo-section {
+			    width: 40%;
+			    float: left;
+}
+.logo-section img{
+	padding: 0px 0px 0px 40px;
+}
+nav ul {
+
+		list-style: none;
+}
+nav ul li {
+		    display: inline-block;
+		    margin: 0px 30px;
+		    padding: 5px;
+		    background-color: #7670704a;
+		        text-transform: uppercase;
+}
+nav ul li a {
+		    color: #fff;
+		    text-decoration: none;
+}
+a:hover {
+  color: red;
+}
+.main-menu{
+
+}
+.banner {
+		    width: 600px;
+		    margin: 0 auto;
+		    padding: 50px 0px 126px;
+}
+.banner h2 {
+		    text-align: center;
+		    color: #fff;
+		    line-height: 33px;
+		    font-size: 25px;
+}
+.banner-btn{
+	        text-align: center;
+		    color: #fff;
+		    line-height: 33px;
+		    font-size: 25px;
+}
+.btn {
+    margin: -7% auto;
+    display: block;
+    background: #eb7d4b;
+    padding: 13px 33px;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    box-shadow: 0px 3px 0px #DC7633;
+    text-transform: uppercase;
+   
+}
+
+.btn:hover {
+  background-color: #B3B6B7;
+  color: white;
+}
+.Second-part {
+    width: 100%;
+    float: left;
+    padding: 19px 0px;
+    background-color: #17c2a4;
+}
+.tittle {
+    width: 655px;
+    margin: 0 auto;
+    text-align: center;
+}
+.tittle h2 {
+    margin: 12px 0px;
+     text-transform: uppercase;
+
+}
+.tittle span {
+    display: block;
+    border-bottom: 2px solid #161616;
+    width: 20%;
+    margin: 10px auto;
+}
+.tittle p {
+    margin: 12px 0px;
+}
+.Second-section {
+    width: 22%;
+    float: left;
+    margin: 30px 15px;
+    text-align: center;
+    color: #fff;
+}
+.Second-section img {
+
+}
+.Second-section h2 {
+    margin: 5px 0px;
+}
+.Second-section p { 
+
+}
+.Team-part {
+    width: 100%;
+    float: left;
+    padding: 19px 0px;
+    background-color: silver;
+}
+.third-section {
+    width: 22%;
+    float: left;
+    margin: 30px 15px;
+    text-align: center;
+    color: #141313;
+}
+.third-section img {
+    width: 75%;
+}
+.third-section h2 {
+    margin: 5px 0px;
+}
+.third-section h4 {
+    margin: 5px 0px;
+    color: #BB8FCE;
+}
+.icon {
+
+}
+.icon ul {
+    list-style: none;
+}
+.icon ul li {
+    display: block;
+    float: left;
+    margin: 18px;
+    color: #e5eee5;
+    background-color: #7F8C8D;
+    font-size: 19px;
+    padding: 4px;
+    border-radius: 20px;
+}
+.team-section h2 {
+    margin: 5px 0px;
+}
+.team-section h4 {
+    margin: 5px 0px;
+    color: #a20ecb;
+}
+.Forth-Part {
+    width: 100%;
+    float: left;
+    padding: 90px 0px;
+    background-color: #fff;
+}
+.forth-section {
+    width: 22%;
+    float: left;
+    margin: 30px 15px;
+    text-align: center;
+    color: #141313;
+}
+.forth-section img {
+    width: 75%;
+}
+.forth-section h2 {
+    margin: 5px 0px;
+}
+.forth-section h4 {
+    margin: -159px 0px;
+    color: #a20ecb;
+    font-size: 27px;
+}
+.Fifth-part {
+    width: 100%;
+    float: left;
+    padding: 19px 0px;
+    background-color: #F7DC6F;
+    height: 832px;
+    margin: 62px auto;
+}
+.inside {
+    width: 60%;
+    float: left;
+    margin: 11px 280px;
+    padding: 22px;
+}
+.fifth-section {
+    width: 50%;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+    color: #141313;
+}
+.fifth-section img {
+    width: 75%;
+}
+.fifth-section h2 {
+    margin: 5px 0px;
+        text-transform: uppercase;
+        font-size: 20px;
+}
+.fifth-btn{
+	 margin: -3% auto;
+    display: block;
+    background: #17A589 ;
+    padding: 13px 33px;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    box-shadow: 0px 3px 0px #0E6655 ;
+    text-transform: uppercase;
+}
+.fifth-btn:hover {
+  background-color: #1B4F72;
+  color: white;
+}
+.Sixth-part{
+    width: 100%;
+    float: left;
+    padding: 90px 0px;
+    background-color: #F22384 ;
+    margin: -62px auto;
+    color: white;
+    }
+ .sixth-section {
+    width: 50%;
+    float: left;
+    margin: 0 auto;
+    text-align: center;
+    color: #141313;
+}
+.sixth-section img {
+    width: 22%;
+    display: block;
+    float: left;
+}
+.sixth-section h2 {
+    color: white;
+    text-align: left;
+}
+.sixth-section h5 {
+    color: #f2d80b;
+    text-align: left;
+    margin: 0px 125px;
+}
+.sixth-section p {
+    color: white;
+    text-align: left;
+    margin: 30px;
+    font-family: 'Romanesco', cursive;
+}
+.seventh-part {
+    width: 100%;
+    float: left;
+    padding: 28px 0px;
+    background-color: #0d2e93;
+    margin: 62px auto;
+    color: white;
+    height: 500px;
+}
+.Form-section{
+    width: 600px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.form-control {
+    width: 46%;
+    height: 30px;
+    float: left;
+    margin: 0px 5px;
+    padding: 5px;
+    background-color: #0f0e0e3d;
+    border: none;
+    color: #fff;
+}
+.text-area {
+    width: 96%;
+    padding: 4px;
+    height: 150px;
+    float: left;
+    display: block;
+    margin: 11px 5px;
+    background-color: #0f0e0e3d;
+    border: none;
+    color: #fff;
+}
+.btn2 {
+    margin: 51px 183px;
+    background: #4be3eb;
+    padding: 11px 33px;
+    font-size: 18px;
+    color: #fff;
+    border: none;
+    box-shadow: 0px 4px 0px #eb7d4bbd;
+    text-transform: uppercase;
+}
+footer {
+    display: block;
+}
+.footer-menu {
+    width: 100%;
+    float: left;
+    background-color: #054976;
+    margin: -62px auto;
+}
+.footer-menu nav ul {
+    list-style: none;
+}
+.footer-menu nav ul li {
+    display: inline-block;
+     margin: 0px 10x 0px 0px;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: none;
+}
+.footer-menu nav ul li a {
+    color: #fff;
+    text-decoration: none;
+
+}
+
+
+
+/* 
+
+.menu {
+
+	width: 75%;
+
+	float: left;
+}
+
+
+
+
+
+nav ul li a{
+	
+	color: #fff;
+		
+	font-size: 24px;
+		
+	text-decoration: none;
+}
+
+.banner {
+
+	width: 600px;
+
+	margin: 0 auto;
+}
+
+.banner h2 {
+
+}
+
+.btn-one {
+
+}
+
+.about {
+
+width: 100%;
+
+float: left;
+
+background: #4CAF50;
+
+padding: 25px 0px;
+}
+
+
+
+
+
+
+
+
+
+.contact-form {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.form-control {
+    width: 49%;
+    float: left;
+    height: 24px;
+}
+
+.text-area {
+	
+}
+.btn {
+
+}
+*/
